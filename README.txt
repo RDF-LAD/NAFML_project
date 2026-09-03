@@ -1,3 +1,5 @@
+This is a student project in the context of the NAFML course of PoliMi that aims to train for the first time a small CNN.
+
 proto_3.ipynb -> is the most advanced version of my implementation of the NN from scratch including in this order :
 - the design of the NN 
 - the importation and the processing of the dataset
